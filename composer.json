@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^5.5 || ^7.0",
-	"jsonplus/jsonplus": "*"
+	"jsonplus/jsonplus": "^1.0"
     },
     "license": "Apache-2.0",
     "authors": [
