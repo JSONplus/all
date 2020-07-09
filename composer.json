@@ -5,7 +5,8 @@
     "require": {
         "php": "^5.5 || ^7.0",
 	"jsonplus/jsonplus": "^1.0",
-	"jsonplus/qtranslate": "^1.0"
+	"jsonplus/qtranslate": "^1.0",
+	"jsonplus/composite": "^1.0"
     },
     "license": "Apache-2.0",
     "authors": [
